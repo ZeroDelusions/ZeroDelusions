@@ -4,8 +4,12 @@
   <div>
     <div>
       <br />
-      <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=47465A&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-      <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=47465A&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+      <a href="mailto:dmytro.koso@gmail.com">
+        <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=47465A&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+      </a>
+      <a href="https://www.linkedin.com/in/dmytro-kosorukov-348229241/" target="_blank" rel="noopener noreferrer">
+        <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=47465A&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+      </a>
     </div>
      <p ><br />I am developer for fun (and career of course) beginning all the way back from middle school. <br />Never-ever i made a 'tutorial project'. Everything i do - i do because i find the idea interesting or actually usefull!</p>
   </div>
