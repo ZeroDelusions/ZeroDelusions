@@ -1,6 +1,8 @@
 <div align="center">
   <h1>🪶 Welcome to My GitHub Nest 🪶</h1>
+  
   <img align="" src="img/crow_type.gif" alt="Crow typing pixelart GIF" width="256px">
+  
   <div>
     <div>
       <br />
@@ -17,6 +19,8 @@
 
 <div align="center">
   <h2>🪶 Skills and Technologies 🪶</h2>
+
+  
   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" />
   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/svelte/svelte-original.svg" />
   
@@ -32,4 +36,9 @@
   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/solidity/solidity-plain.svg" />
   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />
 </div>
-  
+
+<br />
+
+<div align="center">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ZeroDelusions&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
