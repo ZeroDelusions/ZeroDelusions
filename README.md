@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 <div style="display: flex; align-items: center;">
-  <img src="https://github.com/user-attachments/assets/bfd10ced-2148-43f5-a24a-35fee6885eeb" alt="Crow typing pixelartGIF" style="width: 200px; margin-right: 20px;">
+  <img src="img/crow_type.gif" alt="Crow typing pixelart GIF" style="width: 200px; margin-right: 20px;">
   <p>Testestest</p>
 </div>
 
