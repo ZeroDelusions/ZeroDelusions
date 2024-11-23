@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+<div style="display: flex; align-items: center;">
+  ![crow_type](https://github.com/user-attachments/assets/bfd10ced-2148-43f5-a24a-35fee6885eeb)
+   <p>Testestest</p>
+</div>
+
 <!--
 **ZeroDelusions/ZeroDelusions** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
