@@ -14,6 +14,7 @@
       </a>
     </div>
      <p ><br />I am developer for fun (and career of course) beginning all the way back from middle school. <br />Never-ever i made a 'tutorial project'. Everything i do - i do because i find the idea interesting or actually usefull!</p>
+    <p>Most of my coding is done oflfine, so there isn't too much to look for in commit history!</p>
   </div>
 </div>
 
