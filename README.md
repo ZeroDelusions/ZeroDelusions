@@ -21,7 +21,7 @@
   <h2>🪶 Skills and Technologies 🪶</h2>
 
   
-  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/java-original.svg" />
+  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" />
   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/svelte/svelte-original.svg" />
   
