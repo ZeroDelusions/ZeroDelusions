@@ -13,8 +13,7 @@
         <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=47465A&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
       </a>
     </div>
-     <p ><br />I am developer for fun (and career of course) beginning all the way back from middle school. <br />Never-ever i made a 'tutorial project'. Everything i do - i do because i find the idea interesting or actually usefull!</p>
-    <p>Most of my coding is done oflfine, so there isn't too much to look for in commit history!</p>
+     <p ><br />I am developer for fun (and career) beginning all the way back from middle school. <br />Never-ever i made a 'tutorial project'. Everything i do - i do because i find the idea interesting or actually usefull!</p>
   </div>
 </div>
 
@@ -22,6 +21,7 @@
   <h2>🪶 Skills and Technologies 🪶</h2>
 
   
+  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/java-original.svg" />
   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" />
   <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/svelte/svelte-original.svg" />
   
